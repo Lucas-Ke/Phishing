@@ -13,6 +13,25 @@ body {
     background-color: darkblue;
     color: greenyellow;
     font-size: 24px;
+    border-bottom: 10px solid darkblue;
+}
+
+.arrow{
+    width: 100%;
+    background-color: darkblue;
+    border-top: solid 10px darkblue;
+}
+
+div>a {
+    /* display: flex;
+    justify-content: left;
+    align-items: top; */
+    padding: 2.5%;
+    padding-top: 0;
+    background-color: darkblue;
+    color: greenyellow;
+    font-size: 30px;
+    width: 100%;
 }
 
 .steps {
@@ -30,8 +49,9 @@ body {
 .steps li {
     padding: 2.5%;
     text-align: center;
-    margin: 2% 0%;
+    /* margin: 2% 0%; */
     font-size: 20px;
+    height: 12vh;
 }
 
 .step-1 {
@@ -58,4 +78,18 @@ footer {
     background-color: rgb(247, 104, 6);
     padding: 2.5%;
     text-align: center;
+    display: flex;
+    justify-content: center;
+}
+
+footer>p{
+    color: black;
+    font-size: 30px;
+    text-decoration: none;
+}
+a{
+    text-decoration: none;
+}
+footer>p>a{
+    color: black;
 }
