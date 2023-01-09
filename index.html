@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="styles.css" />
+    <title>Phishing</title>
+  </head>
+  <body>
+    <div class="header">
+      <h1>Phishing</h1>
+    </div>
+    <div class="boat">
+      <p><img src="/images/My project-1 (2).png" alt="" /></p>
+    </div>
+    <main>
+      <h2 id="text" class="darkblue1">
+        <u>What is Phishing</u> <br />
+        Phishing is when someone sends you a link disguised as a message or text
+        that scammers use to steal your information such as passwords, account
+        numbers, and Social Security numbers.
+      </h2>
+      <div></div>
+      <div id="item" class="item1">
+        <p></p>
+      </div>
+      <div id="item" class="item2">
+        <p></p>
+      </div>
+      <div></div>
+      <h2 id="text" class="darkblue2">
+        <u> Dangers of Phishing </u><br />
+        The reason why phishing is dangerous is because scammers use their
+        information they steal to take your emails, bank accounts, or other
+        account information. They can also use your accounts to spread it to
+        other people you know.
+      </h2>
+      <h2 id="text" class="darkblue3">
+        <u>Phishing Protection</u> <br />
+        A general rule of thumb in order to protect you from phishing is to have
+        different passwords for all of your accounts and to consistently change
+        all of your passwords. This may sound good but there is way more someone
+        can do to protect themselves.
+      </h2>
+      <div id="last-div"></div>
+      <div id="item" class="item3">
+        <p></p>
+      </div>
+      <div class="hook">
+        <img src="/images/My project (2).png" alt="" />
+      </div>
+    </main>
+
+    <div>
+      <h3>
+        <div class="dirt">
+          <style>
+            @import url("https://fonts.googleapis.com/css2?family=Rubik+Gemstones&display=swap");
+          </style>
+          <a href="info.html">What you can do to stop it</a>
+        </div>
+      </h3>
+    </div>
+  </body>
+</html>
